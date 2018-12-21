@@ -1,0 +1,7 @@
+C:\Users\Moi\source\repos\Projet Noel\Projet Noel\obj\Debug\Projet Noel.csproj.CoreCompileInputs.cache
+C:\Users\Moi\source\repos\Projet Noel\Projet Noel\bin\Debug\Projet Noel.exe.config
+C:\Users\Moi\source\repos\Projet Noel\Projet Noel\bin\Debug\Projet Noel.exe
+C:\Users\Moi\source\repos\Projet Noel\Projet Noel\bin\Debug\Projet Noel.pdb
+C:\Users\Moi\source\repos\Projet Noel\Projet Noel\obj\Debug\Projet Noel.exe
+C:\Users\Moi\source\repos\Projet Noel\Projet Noel\obj\Debug\Projet Noel.pdb
+C:\Users\Moi\source\repos\Projet Noel\Projet Noel\obj\Debug\Projet Noel.csprojAssemblyReference.cache

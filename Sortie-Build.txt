@@ -1,0 +1,3 @@
+﻿1>------ Début de la génération : Projet : Projet Noel, Configuration : Debug Any CPU ------
+1>  Projet Noel -> C:\Users\Moi\source\repos\Projet Noel\Projet Noel\bin\Debug\Projet Noel.exe
+========== Génération : 1 a réussi, 0 a échoué, 0 mis à jour, 0 a été ignoré ==========
